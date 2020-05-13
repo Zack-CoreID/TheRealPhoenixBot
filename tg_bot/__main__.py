@@ -20,7 +20,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 Hi {}, my name is {}!
-To add me to your groups, [click here!](http://telegram.me/TheRealPhoenixBot?startgroup=botstart)
+To add me to your groups, [click here!](http://telegram.me/FlyingHighOfficial_Bot?startgroup=botstart)
 
 You can find the list of available commands with /help
 """
@@ -29,7 +29,7 @@ HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @PhoenixSupport
+If you have any questions on how to use me, head over to @Born2fight
 
 *Main* commands available:
  - /start: start the bot
@@ -46,7 +46,7 @@ And the following:
 
 DONATE_STRING = """{0} doesn't currently need any donations.
 However you can donate to the creator of the original source code which {0} \
-is based on:- [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen).""".format(dispatcher.bot.first_name)
+is based on:- [Telegram Owner](t.me/Zack_Opp47), or [2nd Account](t.me/Born2fight).""".format(dispatcher.bot.first_name)
 
 IMPORTED = {}
 MIGRATEABLE = []
